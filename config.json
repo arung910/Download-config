@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "kill_switch": false,
+  "kill_switch": true,
   "message": "This app is currently unavailable.",
 
   "min_version_code": 0,
