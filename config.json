@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "kill_switch": false,
+  "message": "This app is currently unavailable.",
+
+  "min_version_code": 0,
+  "update_message": "A newer version is required. Please update to continue.",
+  "update_url": "",
+
+  "blocked_countries": [],
+  "country_message": "This app is not available in your region.",
+
+  "blocked_sites": []
+}
